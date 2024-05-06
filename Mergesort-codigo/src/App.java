@@ -1,4 +1,4 @@
-public class app {
+public class App {
 public static void mergeSort(int[] arr, int left, int right) {
     
     if (left < right) {
