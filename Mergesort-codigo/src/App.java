@@ -1,4 +1,5 @@
-public class void mergeSort(int[] arr, int left, int right) {
+public class app {
+public static void mergeSort(int[] arr, int left, int right) {
     
     if (left < right) {
         // Encuentra el punto medio del arreglo 
@@ -70,4 +71,4 @@ private static void merge(int[] arr, int left,int mid, int right) {
         }
     }
 }
-
+}
